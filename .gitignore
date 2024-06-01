@@ -1,0 +1,50 @@
+# LaTeX intermediate and output files
+*.aux
+*.bbl
+*.blg
+*.brf
+*.idx
+*.ilg
+*.ind
+*.lof
+*.log
+*.lot
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
+*.fls
+*.fdb_latexmk
+
+# LaTeX editor backup files
+*~
+*.backup
+*.bak
+*.sav
+
+# Thumbnails for PDF documents
+._*
+
+# TeXShop specific files
+*.pdfsync
+.texpadtmp
+
+# TeXWorks specific files
+*.synctex.gz
+
+# Kile specific files
+*.kilepr
+
+# LyX specific files
+*.lyx~
+
+# Windows specific files
+Thumbs.db
+Desktop.ini
+
+# macOS specific files
+.DS_Store
+
+# LaTeX-Papers directory
+Latex-Papers/
